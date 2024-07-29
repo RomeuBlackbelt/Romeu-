@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomeuBlackbelt
-- 👀 I’m interested in EXCEL|POWER B.I
-- 🌱 I’m currently learning CLOUD| EXCEL
+- 👀 I’m interested in  | EXCEL| | POWER BI |
+- 🌱 I’m currently learning | CLOUD | EXCEL |
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me romeu.senai2024@gmail.com
 - 😄 Pronouns: ...HE

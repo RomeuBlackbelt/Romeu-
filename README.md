@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @RomeuBlackbelt
+- 👋 Hi, I’m @Romeu
 - 👀 I’m interested in  | EXCEL| | POWER BI |
 - 🌱 I’m currently learning | CLOUD | EXCEL |
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me romeu.senai2024@gmail.com
 - 😄 Pronouns: ...HE
-- ⚡ Fun fact: ...BJJ
+- ⚡ Fun fact: ...
 
 <!---
 RomeuBlackbelt/RomeuBlackbelt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
